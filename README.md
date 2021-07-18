@@ -1,1 +1,1 @@
-Just a telnet server listening on port 7891, displays data entered by the user in hexdump format :)
+Just a TCP server listening on port 7891, displays data entered by the user in hexdump format.The name of this repository originates from the fact that when I first learnt to create a server like this, I mostly telnet-ed in it locally :)
